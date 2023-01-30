@@ -5,7 +5,7 @@ permalink: /
 group: "navigation"
 ---
 
-{% include image.html url="/images/lucky.jpg" align="right" %}
+{% include image.html url="/images/lucky.jpg" width="300px" align="right" %}
 
 Hi!
 
